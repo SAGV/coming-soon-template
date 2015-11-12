@@ -1,0 +1,16 @@
+*.log
+/node_modules/
+/coverage/
+/test/coverage
+/tmp/
+/*.iml
+/*.ipr
+/*.iws
+/*.sublime-project
+/*.sublime-workspace
+/.bower-cache
+/.bower-registry
+.DS_Store
+/app/config.js
+/app/bower_components/
+.env

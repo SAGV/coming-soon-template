@@ -1,0 +1,30 @@
+{
+  "name": "coming-soon-page",
+  "description": "My coming soon template",
+  "version": "0.0.1",
+  "keywords": [
+    "coming-soon"
+  ],
+  "author": "Artem Golovin <artem@xtc.vc>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sagv/coming-soon.git"
+  },
+  "engines": {
+    "node": "0.10.30",
+    "npm": "3.3.8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "licence": "Copyright (c) 2015 Artem Golovin. All rights reserved",
+  "preferGlobal": true,
+  "dependencies": {
+    "express": "^4.1.1",
+    "lodash": "^3.10.1",
+    "morgan": "^1.0.0",
+    "nodemon": "^1.0.17"
+  },
+  "devDependencies": {
+  }
+}
